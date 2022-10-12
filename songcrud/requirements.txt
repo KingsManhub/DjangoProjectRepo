@@ -1,0 +1,8 @@
+asgiref==3.5.2
+Django==3.0
+fire==0.1.2
+peewee==2.8.8
+pytz==2022.4
+six==1.16.0
+sqlparse==0.4.3
+Workon==0.8.2
